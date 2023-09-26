@@ -1,0 +1,7 @@
+src/alg/yolo_model/yolov5l_324_fp16.engine
+src/alg/lib/libnvinfer.so
+src/alg/lib/libnvinfer.so.7
+src/alg/lib/libnvinfer.so.7.0.0
+src/alg/lib/libcublas.so.10.0
+src/3rdParty/ubuntu-cuda10/libnvinfer.so.6
+src/3rdParty/ubuntu-cuda10/libcublas.so.10.0
